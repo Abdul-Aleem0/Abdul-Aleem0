@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm [Abdul Aleem Zulfiqar] 👋
 
-<!--
-**Abdul-Aleem0/Abdul-Aleem0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student currently in my 4th semester, passionate about learning new technologies and building projects. I'm currently focused on developing my skills in App development and programming. 
 
-Here are some ideas to get you started:
+🔭 Currently working on web-based projects and solving programming challenges in **Python** and **Java**.  
+🌱 Actively learning **JavaScript**, and improving problem-solving skills in **C++**.  
+👯 Looking to collaborate on **beginner-friendly open-source projects** or **coding challenges**.  
+💬 Feel free to ask me about **HTML**, **CSS**, **Java**, **C++**, or **Python**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+### Programming Languages:
+- **Python**  
+- **Java**  
+- **C++**  
+- **HTML**  
+- **CSS**  
+
+### Tools & Technologies:
+- **VS Code**  
+- **Git/GitHub**  
+- **Dev-cpp** (for C++ development)  
+- **Eclipse IDE** (for Java development)  
+
+### Web Development:
+- **HTML** (Building static websites)  
+- **CSS** (Styling websites with modern techniques like Flexbox, Grid)  
+- **Responsive Web Design**  
+
+
